@@ -3,3 +3,6 @@
 Many of us are familiar with how Power BI report is being exported into Power Point format. However there are couple of questions from Power BI user on how to embed Power Point into Power BI. This demo shows how you can do that.
 
 ## Open your Power BI apps
+Click on the Apps tab and open your targeted Apps
+![App Demo Favorite](https://github.com/crgunawan/crgdevzone/blob/master/PowerPointEmbedToPowerBI/images/01%20Apps%20Demo.png?raw=true)
+
