@@ -29,7 +29,7 @@ This is the Apps Demo that I have with the cover page
 1. Fill in the copied Power Point Embed URL into the Link and update the App
 ![Apps Demo Embed Page](https://github.com/crgunawan/crgdevzone/blob/master/PowerPointEmbedToPowerBI/images/08%20Apps%20Demo%20Embed%20Page.png)
 
-## :heart: Enjoy Your Power Point in Power BI App!
+## :heart: Enjoy Your Power Point in Power BI App! :heart:
 Page 1 of the embedded Power Point slide
 ![Result Page 1](https://github.com/crgunawan/crgdevzone/blob/master/PowerPointEmbedToPowerBI/images/09%20Result%20Page%201.png)
 
